@@ -1,12 +1,6 @@
-
-[try's blog](http://try.design)
-
-[语雀](https://www.yuque.com/mrtry/blog)
-
-
+[语雀](https://www.yuque.com/mrtry/blog) [博客](http://try.design)
 <!--
 **Mr-try/Mr-try** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,9 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 [![try's github stats](https://github-readme-stats.vercel.app/api?username=Mr-try)](https://github.com/Mr-try/ 'try的信息')
-
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mr-try/count.svg" />
