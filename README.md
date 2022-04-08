@@ -1,6 +1,8 @@
 
 [try's blog](http://try.design)
 
+[语雀](https://www.yuque.com/mrtry/blog)
+
 
 <!--
 **Mr-try/Mr-try** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
