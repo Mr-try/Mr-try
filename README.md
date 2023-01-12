@@ -10,7 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![try's github stats](https://github-readme-stats.vercel.app/api?username=Mr-try)](https://github.com/Mr-try/ 'try的信息')
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mr-try/count.svg" />
