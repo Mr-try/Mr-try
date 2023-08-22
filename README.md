@@ -1,4 +1,6 @@
 [语雀](https://www.yuque.com/mrtry/blog) [博客](http://try.design)
+
+### 我在研究如何提效（偷懒）
 <!--
 **Mr-try/Mr-try** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
