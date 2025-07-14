@@ -1,4 +1,4 @@
-[语雀](https://www.yuque.com/mrtry/blog) [博客](http://try.design)
+[语雀](https://www.yuque.com/mrtry/blog)
 
 ### 我在研究如何提效（偷懒）
 <!--
